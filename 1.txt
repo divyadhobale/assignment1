@@ -1,4 +1,0 @@
-hii
-hello
-welcome
-this text is from github
