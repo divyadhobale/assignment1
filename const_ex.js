@@ -1,4 +1,7 @@
 const a=10;
+{
+
+const a=20;
 console.log(a)
-const b=20;
-console.log(b)
+}
+console.log(a)

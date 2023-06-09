@@ -1,4 +1,6 @@
 let a=10;
+{
+let a=20;
 console.log(a)
-let b=20;
-console.log(b)
+}
+console.log(a)
